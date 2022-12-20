@@ -1,0 +1,83 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+div {
+	color: crimson;
+}
+ul {
+	color: black;
+}
+
+h1 {
+	font-size: 15px;
+}
+
+.para {
+	color: black;
+}
+
+.btn {
+	background-color: yellow;
+	margin: 10px;
+	padding: 15px;
+	border-radius: 50%;
+}
+
+.neigh {
+	color: black;
+}
+
+.food {
+	color: black;
+}
+
+.fun {
+	color: black;
+}
+
+#restaurantbtn {
+	background-color: black;
+	color: white;
+	border-radius: 25px;
+	cursor: pointer;
+}
+
+footer > div {
+	color: black;
+}
